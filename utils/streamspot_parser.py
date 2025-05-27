@@ -1,7 +1,7 @@
 import networkx as nx
 from tqdm import tqdm
 import json
-raw_path = '../data/streamspot/'
+raw_path = ''
 
 NUM_GRAPHS = 600
 node_type_dict = ['a', 'b', 'c', 'd', 'e', 'f', 'g', 'h']
